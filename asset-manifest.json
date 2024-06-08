@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hisab-Calculator/static/css/main.065c1d85.css",
+    "main.js": "/Hisab-Calculator/static/js/main.023e2d03.js",
+    "index.html": "/Hisab-Calculator/index.html",
+    "main.065c1d85.css.map": "/Hisab-Calculator/static/css/main.065c1d85.css.map",
+    "main.023e2d03.js.map": "/Hisab-Calculator/static/js/main.023e2d03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065c1d85.css",
+    "static/js/main.023e2d03.js"
+  ]
+}
